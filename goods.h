@@ -3,7 +3,7 @@
 
 // Goods class for representing goods information with index and price
 // Example:
-//    Goods test;
+//    Goods class test by printing index and price;
 //    test.SetGoodsInfo(1, 10000);
 //    std::cout << test.GetIndex() << " - " << test.GetPrice << endl;
 class Goods{
